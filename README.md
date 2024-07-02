@@ -53,7 +53,7 @@ Follow these steps to run the analysis:
 
 - Open and run Jupyter Notebook or use Google Collab
 
-![Google_collab_solution.png](Image/Report.png)
+![Solution in Google collab](Image/Google_collab_solution.png.png)
 
 ## Purpose
 
