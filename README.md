@@ -53,7 +53,13 @@ Follow these steps to run the analysis:
 
 - Open and run Jupyter Notebook or use Google Collab
 
-![Solution in Google collab](Image/Google_collab_solution.png)
+![Query performance](Image/CachedvsUncached.png)
+
+## Analisys
+
+The cached query executed in about 0.48 seconds. Uncached query executed in about 1.74 seconds. We can see that the cached query runs almost twice as fast as the previous query without caching. This is a clear example of how storing the table in temporary memory improves the performance of SQL queries.
+
+
 
 ## Purpose
 
